@@ -4,3 +4,4 @@
 !mysql/mariadb.conf.d
 !nginx
 !nginx/conf.d
+!notify_slack.toml

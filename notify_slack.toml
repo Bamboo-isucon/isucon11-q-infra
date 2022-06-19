@@ -1,0 +1,6 @@
+[slack]
+token = "xoxp-1176654194084-1164487639382-3691405240724-0427008be8e2f1cf0a5cdbfe2fc3bb18"
+channel = "#isucon11-q-練習"
+username = "isucon11-ojisan"
+icon_emoji = ":rocket:"
+interval = "1s"
