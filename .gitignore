@@ -1,3 +1,6 @@
 *
 !mysql
+!mysql/conf.d
+!mysql/mariadb.conf.d
 !nginx
+!nginx/conf.d
