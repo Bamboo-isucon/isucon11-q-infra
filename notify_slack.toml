@@ -1,5 +1,6 @@
 [slack]
-token = "xoxp-1176654194084-1164487639382-3691405240724-0427008be8e2f1cf0a5cdbfe2fc3bb18"
+url="https://hooks.slack.com/services/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"
+token = "xoxp-1176654194084-1164487639382-3691414982628-d685bb5597d3d10d33cfba8d0303e92a"
 channel = "#isucon11-q-練習"
 username = "isucon11-ojisan"
 icon_emoji = ":rocket:"
